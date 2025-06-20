@@ -1,5 +1,4 @@
 # cloud-task1-s3
-Task 1: Cloud Storage Setup using AWS S3 - Internship Project
 # Task 1: Cloud Storage Setup using AWS S3
 
 ## 🎯 Objective
@@ -10,7 +9,7 @@ To create a cloud storage bucket using AWS S3, upload sample files, and configur
 ## 🪜 Steps Followed
 
 ### ✅ 1. Created S3 Bucket
-- **Name:** ritesh-cloud-storage-bucket (example)
+- **Name:** riteishk-storage-bucket 
 - **Region:** Europe (eu-west-1)
 
 ### ✅ 2. Uploaded Files
@@ -26,7 +25,7 @@ To create a cloud storage bucket using AWS S3, upload sample files, and configur
 ### ✅ 4. Tested Public URLs
 - ✔️ [hello.txt](https://riteishk-storage.s3.eu-north-1.amazonaws.com/hello.txt)
 - ✔️ [image.jpg](https://riteishk-storage.s3.eu-north-1.amazonaws.com/image.jpg)
-- ❌ [info.json](https://your-bucket-name.s3.eu-west-1.amazonaws.com/info.json) – Access Denied (as expected)
+- ❌ [info.json](https://riteishk-storage.s3.eu-west-1.amazonaws.com/info.json) – Access Denied (as expected)
 
 ---
 
