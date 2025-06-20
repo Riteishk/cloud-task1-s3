@@ -24,8 +24,8 @@ To create a cloud storage bucket using AWS S3, upload sample files, and configur
 - Applied Bucket Policy to **block `.json` public access**
 
 ### ✅ 4. Tested Public URLs
-- ✔️ [hello.txt](https://your-bucket-name.s3.eu-west-1.amazonaws.com/hello.txt)
-- ✔️ [image.jpg](https://your-bucket-name.s3.eu-west-1.amazonaws.com/image.jpg)
+- ✔️ [hello.txt](https://riteishk-storage.s3.eu-north-1.amazonaws.com/hello.txt)
+- ✔️ [image.jpg](https://riteishk-storage.s3.eu-north-1.amazonaws.com/image.jpg)
 - ❌ [info.json](https://your-bucket-name.s3.eu-west-1.amazonaws.com/info.json) – Access Denied (as expected)
 
 ---
